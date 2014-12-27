@@ -24,6 +24,8 @@ $ sudo pip install appdirs
 
 3. If need, install lxml
 
-    $ sudo apt-get install python-lxml
-	
+```sh
+$ sudo apt-get install python-lxml
+```
+
 4. Just double click gatostream_0.X.X.deb and install the package
