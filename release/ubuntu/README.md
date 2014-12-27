@@ -10,7 +10,7 @@ And on the terminal
 
 1. Install py-pip
 
-    $ sudo apt-get install python-pip
+	$ sudo apt-get install python-pip
 	
 2. Install depencies to the Gato Stream
 
